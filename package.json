@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Intelligent agent that monitors Best Buy for Open Box - Excellent LG G5 OLED deals, checking 4 times per day and sending alerts",
   "main": "bestbuy_monitor.js",
-  "type": "module",
   "scripts": {
     "start": "node bestbuy_monitor.js",
     "dev": "nodemon bestbuy_monitor.js",
